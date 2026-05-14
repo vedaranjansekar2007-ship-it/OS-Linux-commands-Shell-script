@@ -114,7 +114,7 @@ grep Hello newfile
 grep hello newfile 
 ## OUTPUT
 
-
+![cat file9](img/img9.png)
 
 
 grep -v hello newfile 
