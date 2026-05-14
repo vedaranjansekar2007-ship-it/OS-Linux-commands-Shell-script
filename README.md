@@ -82,7 +82,7 @@ cat > file22
 
 
 cut -c1-3 file11
-## OUTPUT
+## OUTPUT 
 
 ![cat file 5](img/img5.png)
 
@@ -90,7 +90,7 @@ cut -c1-3 file11
 cut -d "|" -f 1 file22
 ## OUTPUT
 
-
+![cat file 6](img/img6.png)
 
 cut -d "|" -f 2 file22
 ## OUTPUT
