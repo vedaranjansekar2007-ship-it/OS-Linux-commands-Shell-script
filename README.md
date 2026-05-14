@@ -56,7 +56,7 @@ cmp file1 file2
  ![cat file3](img/img3.png) 
 comm file1 file2
  ## OUTPUT
-
+![cat file4](img/img4.png)
  
 diff file1 file2
 ## OUTPUT
