@@ -84,7 +84,7 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
-
+![cat file 5](img/img5.png)
 
 
 cut -d "|" -f 1 file22
