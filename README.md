@@ -53,7 +53,7 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ ![cat file3](img/img3.png) 
 comm file1 file2
  ## OUTPUT
 
