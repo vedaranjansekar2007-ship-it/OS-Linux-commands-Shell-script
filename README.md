@@ -195,7 +195,7 @@ egrep '(World$)' newfile
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
 
-
+![cat file20](img/img22.png) 
 
 egrep '[1-9]' newfile 
 ## OUTPUT
