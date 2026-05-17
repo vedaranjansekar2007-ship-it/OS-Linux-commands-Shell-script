@@ -366,7 +366,7 @@ cat urllist.txt | tr -d ' '
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
 
-
+![cat file46](img/img49.png)
 
 #Backup commands
 tar -cvf backup.tar *
