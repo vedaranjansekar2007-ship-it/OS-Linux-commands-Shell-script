@@ -213,7 +213,7 @@ egrep 'Linux.*World' newfile
 egrep l{2} newfile
 ## OUTPUT
 
-
+![cat file24](img/img27.png)
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
