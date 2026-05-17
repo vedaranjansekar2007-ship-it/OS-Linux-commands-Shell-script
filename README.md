@@ -141,7 +141,7 @@ grep -R ubuntu /etc
 
 grep -w -n world newfile   
 ## OUTPUT
-
+![cat file13](img/img15.png) 
 
 cat < newfile 
 ```
