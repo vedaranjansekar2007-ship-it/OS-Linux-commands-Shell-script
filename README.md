@@ -131,8 +131,8 @@ cat newfile | grep -i "hello"
 cat newfile | grep -i -c "hello"
 ## OUTPUT
 
-
-
+![cat file11](img/img13.png)
+ 
 
 grep -R ubuntu /etc
 ## OUTPUT
