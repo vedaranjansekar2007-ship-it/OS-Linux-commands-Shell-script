@@ -170,7 +170,7 @@ egrep -w 'Hello|hello' newfile
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
 
-
+![cat file15](img/img17.png)
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
