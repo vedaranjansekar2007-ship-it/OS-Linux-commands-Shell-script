@@ -261,7 +261,7 @@ sed  '/tom/s/5000/6000/' file23
 sed -n -e '1,5p' file23
 ## OUTPUT
 
-
+![cat file31](img/img34.png)
 
 sed -n -e '2,/Joe/p' file23
 ## OUTPUT
