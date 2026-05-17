@@ -361,7 +361,7 @@ www. mrcet.... com
 cat urllist.txt | tr -d ' '
  ## OUTPUT
 
-
+![cat file45](img/img48.png)
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
