@@ -246,7 +246,7 @@ sed -n -e '$p' file23
 sed  -e 's/Ram/Sita/' file23
 ## OUTPUT
 
-
+![cat file28](img/img31.png) 
 
 sed  -e '2s/Ram/Sita/' file23
 ## OUTPUT
