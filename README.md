@@ -283,7 +283,7 @@ seq 10
 seq 10 | sed -n '4,6p'
 ## OUTPUT
 
-
+![cat file35](img/img38.png)
 
 seq 10 | sed -n '2,~4p'
 ## OUTPUT
