@@ -175,7 +175,7 @@ egrep -w '(H|h)ello' newfile
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
 
-
+![cat file16](img/img18.png)
 
 
 egrep '(^hello)' newfile 
