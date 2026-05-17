@@ -217,7 +217,7 @@ egrep l{2} newfile
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
-
+![cat file25](img/img28.png)
 
 cat > file23
 ```
