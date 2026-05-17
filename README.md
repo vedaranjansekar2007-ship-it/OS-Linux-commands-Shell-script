@@ -381,7 +381,7 @@ cd backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
-
+![cat file48](img/img51.png)
 
 tar -xvf backup.tar
 ## OUTPUT
