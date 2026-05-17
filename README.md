@@ -293,7 +293,7 @@ seq 10 | sed -n '2,~4p'
 seq 3 | sed '2a hello'
 ## OUTPUT
 
-
+![cat file37](img/img40%5C.png)
 
 seq 2 | sed '2i hello'
 ## OUTPUT
