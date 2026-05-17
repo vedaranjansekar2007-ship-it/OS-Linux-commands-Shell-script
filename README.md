@@ -278,7 +278,7 @@ sed -n -e '/tom/,/Joe/p' file23
 seq 10 
 ## OUTPUT
 
-
+![cat file34](img/img37.png)
 
 seq 10 | sed -n '4,6p'
 ## OUTPUT
