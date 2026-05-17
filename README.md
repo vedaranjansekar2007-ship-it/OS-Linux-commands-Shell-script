@@ -186,7 +186,7 @@ egrep '(^hello)' newfile
 egrep '(world$)' newfile 
 ## OUTPUT
 
-
+![cat file18](img/img20.png) 
 
 egrep '(World$)' newfile 
 ## OUTPUT
