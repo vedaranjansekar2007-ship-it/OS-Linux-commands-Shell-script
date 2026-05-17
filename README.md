@@ -306,7 +306,7 @@ seq 10 | sed '2,9c hello'
 sed -n '2,4{s/^/$/;p}' file23
 ## OUTPUT
 
-
+![cat file40](img/img43.png)
 
 sed -n '2,4{s/$/*/;p}' file23
 
