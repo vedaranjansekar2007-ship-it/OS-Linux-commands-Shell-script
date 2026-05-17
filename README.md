@@ -181,7 +181,7 @@ egrep -w '(H|h)ell[a-z]' newfile
 egrep '(^hello)' newfile 
 ## OUTPUT
 
-
+![cat file17](img/img19.png)
 
 egrep '(world$)' newfile 
 ## OUTPUT
