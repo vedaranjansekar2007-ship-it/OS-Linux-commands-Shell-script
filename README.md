@@ -309,7 +309,9 @@ sed -n '2,4{s/^/$/;p}' file23
 ![cat file40](img/img43.png)
 
 sed -n '2,4{s/$/*/;p}' file23
+##OUTPUT
 
+![cat file41](img/img44.png)
 
 #Sorting File content
 cat > file21
