@@ -297,7 +297,7 @@ seq 3 | sed '2a hello'
 
 seq 2 | sed '2i hello'
 ## OUTPUT
-
+![cat file38](img/img41.png)
 
 seq 10 | sed '2,9c hello'
 ## OUTPUT
