@@ -165,7 +165,7 @@ Linux is best in this World
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
 
-
+![cat file14](img/img16.png) 
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
