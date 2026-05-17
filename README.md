@@ -236,7 +236,7 @@ cat > file23
 sed -n -e '3p' file23
 ## OUTPUT
 
-
+![cat file26](img/img29.png)
 
 sed -n -e '$p' file23
 ## OUTPUT
