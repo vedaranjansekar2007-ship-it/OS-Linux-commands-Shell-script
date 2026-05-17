@@ -324,7 +324,7 @@ cat > file21
 ``` 
 sort file21
 ## OUTPUT
-
+![cat file42](img/img45.png)
 
 cat > file22
 ```
