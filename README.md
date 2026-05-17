@@ -338,7 +338,7 @@ cat > file22
 uniq file22
 ## OUTPUT
 
-
+![cat file43](img/img46.png)
 
 #Using tr command
 
