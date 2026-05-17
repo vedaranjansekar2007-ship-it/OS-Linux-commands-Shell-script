@@ -204,7 +204,7 @@ egrep '[1-9]' newfile
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
-
+![cat file22](img/img24.png)
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
