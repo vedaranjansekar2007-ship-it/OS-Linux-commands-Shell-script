@@ -344,7 +344,7 @@ uniq file22
 
 cat file23 | tr [:lower:] [:upper:]
  ## OUTPUT
-
+![cat file44](img/img47.png)
 cat < urllist.txt
 ```
 www. yahoo. com
