@@ -288,7 +288,7 @@ seq 10 | sed -n '4,6p'
 seq 10 | sed -n '2,~4p'
 ## OUTPUT
 
-
+![cat file36](img/img39.png)
 
 seq 3 | sed '2a hello'
 ## OUTPUT
