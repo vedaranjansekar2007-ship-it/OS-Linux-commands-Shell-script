@@ -457,7 +457,7 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
-
+![script test](img/img56.png)
  
 ls file1
 ## OUTPUT
