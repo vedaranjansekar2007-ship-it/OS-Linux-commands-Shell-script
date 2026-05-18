@@ -386,18 +386,19 @@ tar -tvf backup.tar
 tar -xvf backup.tar
 ## OUTPUT
 ![cat file49](img/img52.png)
+
 gzip backup.tar
 
 ls .gz
 ## OUTPUT
- 
+![cat file50](img/img53.png) 
 gunzip backup.tar.gz
 ## OUTPUT
 
  
 # Shell Script
 ```
-echo '#!/bin/sh' > my-script.sh
+echo '#!/bin/sh' > my-script.sh*
 echo 'echo Hello World‘; exit 0 >> my-script.sh
 ```
 chmod 755 my-script.sh
