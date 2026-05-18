@@ -407,7 +407,7 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
-
+![my-script](img/img55.png)
  
 cat << stop > herecheck.txt
 ```
