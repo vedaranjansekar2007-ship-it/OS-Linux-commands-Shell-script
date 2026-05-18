@@ -461,7 +461,7 @@ chmod 777 scriptest.sh
  
 ls file1
 ## OUTPUT
-
+![file1](img/img57.png)
 echo $?
 ## OUTPUT 
 ./one
