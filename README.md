@@ -391,11 +391,14 @@ gzip backup.tar
 
 ls .gz
 ## OUTPUT
+
 ![cat file50](img/img53.png) 
+
 gunzip backup.tar.gz
 ## OUTPUT
 
- 
+![gun zip](img/img54.png)
+
 # Shell Script
 ```
 echo '#!/bin/sh' > my-script.sh*
