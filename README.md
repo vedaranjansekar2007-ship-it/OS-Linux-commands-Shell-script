@@ -973,6 +973,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
+
+![forcontinue](img/img78.png)
  
 cat exread.sh 
 ```bash
