@@ -826,6 +826,9 @@ done
 $ chmod 755 forin2.sh
  
 $ ./forin2.sh 
+## OUTPUT
+
+![forin2](img/img71.png)
  
 cat forin3.sh 
 ```bash
