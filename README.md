@@ -1111,6 +1111,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+
+![nc.awk](img/img86.png)
  
 cat > palindrome.sh
 ```bash
