@@ -747,7 +747,10 @@ esac
 $ chmod 755 casecheck.sh 
  
 $ ./casecheck.sh 
- 
+## OUTPUT
+
+![casecheck](img/img67.png)
+
 cat > whiletest
 ```bash
 #!/bin/bash
