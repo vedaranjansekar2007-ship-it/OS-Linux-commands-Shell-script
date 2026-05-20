@@ -1003,7 +1003,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
-
+![exread1](img/img80.png)
 
 $ ./exread1.sh 
  
