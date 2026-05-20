@@ -1080,6 +1080,7 @@ set +x
 ## OUTPUT
  ./argshift.sh 1 2 3
  
+ ![argshift](img/img85.png)
  
 cat > nc.awk
 ```bash
