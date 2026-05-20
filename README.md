@@ -727,6 +727,8 @@ $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
 
+![ifcompound](img/img66.png)
+
 # using the case command
 cat >casecheck.sh 
 ```bash
