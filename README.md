@@ -947,6 +947,8 @@ echo "The for loop is completed“
 ```
 ## OUTPUT
 
+![forbreak](img/img77.png)
+
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
