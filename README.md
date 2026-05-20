@@ -840,6 +840,9 @@ echo "word:$test"
 done
 ```
 $ ./forin3.sh 
+## OUTPUT
+
+![forin3](img/img72.png)
  
 cat forin1.sh 
 ```bash
