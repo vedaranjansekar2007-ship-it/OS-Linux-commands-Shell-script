@@ -808,6 +808,9 @@ do
 echo “word:$test”
 done
  ```
+ ## OUTPUT
+
+ ![forin1](img/img70.png)
  
 $ chmod 755 forin2.sh
  
