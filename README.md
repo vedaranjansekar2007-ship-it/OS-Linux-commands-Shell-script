@@ -1025,6 +1025,7 @@ fi
 ## OUTPUT
  ./funcex.sh 
 
+![funcex](img/img81.png)
  
  ./funcex.sh 1 2
 
