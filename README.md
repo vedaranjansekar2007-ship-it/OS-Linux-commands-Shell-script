@@ -1048,8 +1048,6 @@ $ ./argshift.sh 1 2 3
  
  cat argshift1.sh
 
-![argshift1](img/img84.png)
-
 ```bash
  #/bin/bash 
  # store arguments in a special array 
@@ -1065,6 +1063,9 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
+![argshift1](img/img84.png)
+
  
 cat argshift.sh
 ```bash
