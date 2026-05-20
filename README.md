@@ -1047,6 +1047,9 @@ $ ./argshift.sh 1 2 3
 ![argshift](img/img83.png)
  
  cat argshift1.sh
+
+![argshift1](img/img84.png)
+
 ```bash
  #/bin/bash 
  # store arguments in a special array 
