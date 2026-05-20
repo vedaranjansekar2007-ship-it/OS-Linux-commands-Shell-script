@@ -909,6 +909,8 @@ $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
 
+![forctype](img/img75.png)
+
 cat fornested1.sh 
 ```bash
 #!/bin/bash
