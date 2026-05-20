@@ -710,6 +710,7 @@ $ chmod 755 elifcheck.sh
 $ ./elifcheck.sh 
 ## OUTPUT
 
+![elif](img/img65.png)
 
 # testing compound comparisons
 cat> ifcompound.sh 
