@@ -854,6 +854,9 @@ echo The next state is $test
 done
 ```
 $ chmod 755 forin1.sh
+## OUTPUT
+
+![forin1](img/img73.png)
 
 ## OUTPUT
 cat forinfile.sh 
