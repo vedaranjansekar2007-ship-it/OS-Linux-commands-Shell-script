@@ -464,12 +464,13 @@ ls file1
 ![file1](img/img57.png)
 echo $?
 ## OUTPUT 
+ ![echo](img/img59.png) 
 ./one
 bash: ./one: Permission denied
  
 echo $?
 ## OUTPUT 
- 
+ ![echo](img/img59.png) 
 abcd
  
 echo $?
