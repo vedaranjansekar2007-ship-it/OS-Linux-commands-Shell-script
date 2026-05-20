@@ -509,14 +509,12 @@ fi
 ```
 ##OUTPUT
 
-
-
 chmod 755 strcomp.sh
  
 ./strcomp.sh 
 ## OUTPUT
 
-
+![strcomp](img/img60.png)
 # check file ownership
 cat < psswdperm.sh 
 ```bash
