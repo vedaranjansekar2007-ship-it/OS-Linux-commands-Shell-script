@@ -588,7 +588,7 @@ fi
 ./ifnested.sh 
 ## OUTPUT
 
-
+![ifnested](img/img62.png)
 
 # using numeric test comparisons
 cat > iftest.sh 
