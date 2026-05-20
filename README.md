@@ -1029,7 +1029,8 @@ fi
  
  ./funcex.sh 1 2
 
- 
+ ![funcex 1 2](img/img82.png)
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
