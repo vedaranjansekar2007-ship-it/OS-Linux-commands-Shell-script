@@ -881,6 +881,7 @@ Khammam
 
 ## OUTPUT
 
+![forinfile](img/img74.png)
 
 cat forctype.sh 
 ```bash
