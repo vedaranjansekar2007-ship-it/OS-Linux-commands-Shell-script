@@ -782,7 +782,9 @@ done
 ``` 
 $ chmod 755 untiltest.sh
  
- 
+ ## OUTPUT
+
+![untiltest](img/img69.png)
  
 cat forin1.sh 
 ```bash
