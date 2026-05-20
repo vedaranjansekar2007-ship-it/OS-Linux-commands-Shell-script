@@ -1043,6 +1043,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
+![argshift](img/img83.png)
  
  cat argshift1.sh
 ```bash
