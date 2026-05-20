@@ -474,9 +474,10 @@ echo $?
 abcd
  
 echo $?
+
  ## OUTPUT
 
-
+ ![echo](img/img59.png) 
  
 # mis-using string comparisons
 
