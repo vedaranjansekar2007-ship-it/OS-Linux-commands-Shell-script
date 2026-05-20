@@ -680,6 +680,7 @@ $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
 ##OUTPUT
+![ifnested](img/img64.png)
 
 # looking for a possible value using elif
 cat elifcheck.sh 
