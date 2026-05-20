@@ -765,7 +765,10 @@ done
 $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
- 
+
+## OUTPUT
+
+ ![whiletest](img/img68.png)
  
 cat untiltest.sh 
 ```bash
