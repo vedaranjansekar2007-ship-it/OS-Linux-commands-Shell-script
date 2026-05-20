@@ -990,6 +990,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
+![exread](img/img79.png)
 
  cat exread1.sh
 ```bash
