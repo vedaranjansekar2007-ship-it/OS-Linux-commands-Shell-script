@@ -1141,6 +1141,7 @@ fi
 ```
 ## OUTPUT 
 
+![palindrome](img/img87.png)
 
 # RESULT:
 The Commands are executed successfully.
