@@ -929,7 +929,8 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
- 
+ ![fornested1](img/img76.png)
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
